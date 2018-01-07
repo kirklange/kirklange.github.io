@@ -24,8 +24,8 @@ xing_link:
 facebook_link:
 
 # Footer
-footer_left: "<a href=\"https://jekyllrb.com\">Jekyll</a> - <a href=\"https://github.com/jacobtomlinson/carte-noir\">Carte Noire</a>"
-footer_right: "&lt;/&gt; on <a href=\"https://github.com/kirklange/kirklange.github.io\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+footer_left: "<a target=\"_blank\" href=\"https://jekyllrb.com\">Jekyll</a> - <a target=\"_blank\" href=\"https://github.com/jacobtomlinson/carte-noir\">Carte Noire</a>"
+footer_right: "&lt;/&gt; on <a target=\"_blank\" href=\"https://github.com/kirklange/kirklange.github.io\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
 markdown: kramdown
