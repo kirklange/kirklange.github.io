@@ -4,7 +4,7 @@ email: example@example.com
 description: "To do: craft a cool description."
 baseurl: ""
 url: "https://kirklange.github.io"
-title_description: ""
+title_description: "Here is an :smiley: emoji test."
 title_image: "https://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
 google_analytics: "UA-20365477-4"
 disqus_account:
@@ -24,8 +24,8 @@ xing_link:
 facebook_link:
 
 # Footer
-footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
-footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+footer_left: "Carte Noire theme by <a href=\"https://github.com/jacobtomlinson\">Jacob Tomlinson</a>"
+footer_right: "Source code on <a href=\"https://github.com/kirklange/kirklange.github.io\">Github</a>"
 
 # Build settings
 markdown: kramdown
