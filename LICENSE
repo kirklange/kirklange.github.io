@@ -1,4 +1,4 @@
-Copyright (C) 2014  Jacob Tomlinson
+Copyright (C) 2018  Kirk Lange
 
 The contents of this website, which consists of the files in
  * _config.yml
@@ -6,12 +6,12 @@ The contents of this website, which consists of the files in
  * _drafts
  * _posts
 
-are copyrighted and sole property of its author Jacob Tomlinson. It may not be
-used, modified, syndicated or distributed without expressed permission from
-the author.
+are copyrighted and sole property of its author Kirk Lange. It may not be used,
+modified, syndicated or distributed without expressed permission from the
+author.
 
-However the website theme built using jekyll is Open Source under the following
-GPLv3 license.
+However the website theme, Carte Noire, built by Jacob Tomlinson using Jekyll,
+is Open Source under the following GPLv3 license.
 
 
 This program is free software: you can redistribute it and/or modify
