@@ -6,7 +6,7 @@ baseurl: ""
 url: "https://kirklange.github.io"
 title_description: "Here is an :smiley: emoji test."
 title_image: "https://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
-google_analytics: "UA-20365477-4"
+google_analytics: ""
 disqus_account:
 github_repository: https://github.com/kirklange/kirklange.github.io
 addthis_id:
@@ -24,8 +24,8 @@ xing_link:
 facebook_link:
 
 # Footer
-footer_left: "Carte Noire theme by <a href=\"https://github.com/jacobtomlinson\">Jacob Tomlinson</a>"
-footer_right: "Source code on <a href=\"https://github.com/kirklange/kirklange.github.io\">Github</a>"
+footer_left: "<a href=\"https://jekyllrb.com\">Jekyll</a> - <a href=\"https://github.com/jacobtomlinson/carte-noir://github.com/jacobtomlinson/carte-noire\">Carte Noire</a>"
+footer_right: "&lt;/&gt; on <a href=\"https://github.com/kirklange/kirklange.github.io\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
 markdown: kramdown
