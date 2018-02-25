@@ -1,27 +1,27 @@
 # Site settings
 title: "Kirk Lange"
 email: example@example.com
-description: "Blog and Portfolio"
+description: "Personal Blog and Portfolio"
 baseurl: ""
 url: "https://kirklange.github.io"
-title_description: "Here is an :smiley: emoji test."
+title_description: "Programmer? Pianist? Same difference, they both work at the keyboard."
 title_image: "https://www.gravatar.com/avatar/f0272e9987be9113b93e9e4b7153fa1d?s=500&d=mm"
 google_analytics:
-disqus_account: kirklange-com
 github_repository: https://github.com/kirklange/kirklange.github.io
 addthis_id:
 post_limit: 3
 
 # Social usernames/URLs
-twitter_username:
+disqus_account: kirklange-com
+twitter_username: kirklange_com
 github_username: kirklange
-instagram_username:
 reddit_username: kirk_lange
 linkedin_link: http://www.linkedin.com/in/kirk-lange/
-google_plus_link:
-stackoverflow_link:
-xing_link:
 facebook_link:
+stackoverflow_link:
+instagram_username:
+google_plus_link:
+xing_link:
 
 # Footer
 footer_left: "<a target=\"_blank\" href=\"https://jekyllrb.com\">Jekyll</a> - <a target=\"_blank\" href=\"https://github.com/jacobtomlinson/carte-noire\">Carte Noire</a>"
