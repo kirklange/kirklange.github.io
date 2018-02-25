@@ -1,12 +1,12 @@
 # Site settings
 title: "Kirk Lange"
 email: example@example.com
-description: "To do: craft a cool description."
+description: "Blog and Portfolio"
 baseurl: ""
 url: "https://kirklange.github.io"
 title_description: "Here is an :smiley: emoji test."
-title_image: "https://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
-google_analytics: ""
+title_image: "https://www.gravatar.com/avatar/f0272e9987be9113b93e9e4b7153fa1d?s=500&d=mm"
+google_analytics:
 disqus_account: kirklange-com
 github_repository: https://github.com/kirklange/kirklange.github.io
 addthis_id:
@@ -15,7 +15,7 @@ post_limit: 3
 # Social usernames/URLs
 twitter_username:
 github_username: kirklange
-instagram_username: 
+instagram_username:
 reddit_username: kirk_lange
 linkedin_link: http://www.linkedin.com/in/kirk-lange/
 google_plus_link:
@@ -43,6 +43,8 @@ plugins:
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-avatar
+    #  - jekyll-avatar
   - jemoji
   - jekyll-mentions
+
+jekyll-mentions: https://reddit.com/user/
