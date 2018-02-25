@@ -1,10 +1,14 @@
 ---
+published:  true
 layout:     post
 title:      Carte Noire in Action
 date:       2014-06-10 12:31:19
+author:     Jacob Tomilson
 summary:    See what the different elements looks like.
 categories: jekyll
-thumbnail: cogs
+thumbnail:  cogs
+redditurl:  7deu8p
+twitterurl: 961084879432597504
 tags:
  - demo
  - action
