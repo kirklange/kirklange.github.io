@@ -26,10 +26,8 @@ google_plus_link:
 xing_link:
 
 # Footer
-#footer_left: "Forked from <a target=\"_blank\" href=\"https://github.com/jacobtomlinson/carte-noire\">Carte Noire</a>."
-footer_left: "<i class=\"fa fa-code-fork\"></i> from <a target=\"_blank\" href=\"https://github.com/jacobtomlinson/carte-noire\">Carte Noire</a>"
-#footer_right: "Join the fun on <a target=\"_blank\" href=\"https://github.com/kirklange/kirklange.github.io\">Github</a>!"
-footer_right: "<i class=\"fa fa-code\"></i> on <a target=\"_blank\" href=\"https://github.com/kirklange/kirklange.github.io\">Github</a>"
+footer_left: "<i class=\"fa fa-code-branch\"></i> from <a target=\"_blank\" href=\"https://github.com/jacobtomlinson/carte-noire\">Carte Noire</a>"
+footer_right: "<i class=\"fa fa-code\"></i> on <a target=\"_blank\" href=\"https://github.com/kirklange/kirklange.github.io\">GitHub</a>"
 
 # Build settings
 markdown: kramdown
