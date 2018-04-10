@@ -4,6 +4,11 @@
 
     <ul class="pages">
       <li><a href="{{ site.baseurl }}/"><i class="fa fa-home"></i> Home</a></li>
+      {% for my_page in site.pages %}
+      {% if my_page.title and my_page.thumbnail %}
+      <li><a href="{{ my_page.url | prepend: site.baseurl }}"><i class="fa fa-{{ my_page.thumbnail }}"></i> {{ my_page.title }}</a></li>
+      {% endif %}
+      {% endfor %}
       <li><a href="{{ site.baseurl }}/posts/"><i class="fa fa-archive"></i> All Posts</a></li>
       <li><a href="{{ site.baseurl }}/search/"><i class="fa fa-search"></i> Search</a></li>
     </ul>
