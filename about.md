@@ -22,7 +22,7 @@ thumbnail:  info-circle
 <br>
 # <i class="fa fa-graduation-cap"></i> Education <span style="float:right;"><a href="#" style="color:white;"><i class="fas fa-arrow-circle-up"></i></a></span>
 ***
-### **B.A. in Computer Science** <small>(Pursuing)</small>
+### **B.A. in Computer Science** (Pursuing)
 #### *Aug 2016 - May 2019*
 #### *Whitman College*
 #### *Walla Walla, WA*
@@ -49,9 +49,8 @@ thumbnail:  info-circle
 ### **Software Development**
 - C, C++, Python, Java
 - SDL2 graphics library
-- Doxygen and Sphinx
-- Make and CMake
-- Shell and Batch scripting
+- Make, CMake/CTest, Shell, Batch
+- Documenting with Doxygen and Sphinx
 - Writing portable, cross-platform code
 
 ### **Project Management Tools**
@@ -60,7 +59,7 @@ thumbnail:  info-circle
 - Code coverage (Codecov, Coveralls)
 
 ### **Miscellaneous**
-- Writing project wikis, blogs, and documentation
+- Writing project wikis, guides, tutorials
 - Static website generation with Jekyll
 - Completing tasks under tight deadlines
 - Self-teaching and on-the-job learning
@@ -102,7 +101,7 @@ thumbnail:  info-circle
 #### *Walla Walla, WA*
 - C++ software development of <a target="_blank" href="http://github.com/johnastratton/DelayDifferentialEqnSimulator">gene regulation network simulation</a>
 - Optimized simulation runtime by 20%
-- Automated simulation per-model-recompilation with CMake
+- Automated simulation per-model recompilation with CMake
 - Refactored codebase with emphasis on mondularity and configurability
 - Implemented file and command-line I/O classes for logging and configuration
 - Monthly, formal presentations to the CS department on progress and results
@@ -112,5 +111,5 @@ thumbnail:  info-circle
 #### *Jul 2015*
 #### *The Science Factory*
 #### *Eugene, OR*
-- Engaged visitors of all ages in applying the scientific method
+- Engaged visitors of all ages in museum exhibits and activities
 - Supervised experiments and activities in chemsitry and astronomy for two dozen campers
