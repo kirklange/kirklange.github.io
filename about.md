@@ -12,9 +12,10 @@ thumbnail:  info-circle
 <center>
 <div style="padding-bottom:10px">Table of Contents</div>
 <a href="#-education-" style="color:white;"><i class="fa fa-graduation-cap"></i></a> &nbsp;
-<a href="#-skill-sets-" style="color:white;"><i class="fa fa-wrench"></i></a> &nbsp;
+<a href="#-skills-" style="color:white;"><i class="fa fa-wrench"></i></a> &nbsp;
 <a href="#-projects-" style="color:white;"><i class="fa fa-file-code"></i></a> &nbsp;
-<a href="#-work-experience-" style="color:white;"><i class="fa fa-briefcase"></i></a>
+<a href="#-work-experience-" style="color:white;"><i class="fa fa-briefcase"></i></a> &nbsp;
+<a href="#-languages-" style="color:white;"><i class="fa fa-language"></i></a>
 </center>
 </h1>
 
@@ -44,23 +45,21 @@ thumbnail:  info-circle
   - Vice President of Martial Arts club (2017)
 
 <br>
-# <i class="fa fa-wrench"></i> Skill Sets <span style="float:right;"><a href="#" style="color:white;"><i class="fas fa-arrow-circle-up"></i></a></span>
+# <i class="fa fa-wrench"></i> Skills <span style="float:right;"><a href="#" style="color:white;"><i class="fas fa-arrow-circle-up"></i></a></span>
 ***
-### **Software Development**
+### **Programming and Scripting**
 - C, C++, Python, Java
 - SDL2 graphics library
-- Make, CMake/CTest, Shell, Batch
-- Documenting with Doxygen and Sphinx
+- Make, Shell, CMake/CTest, Batch
 - Writing portable, cross-platform code
 
-### **Project Management Tools**
+### **Software Development**
 - Git and collaborative software development
+- Auto documentation with Doxygen and Sphinx
 - Continuous integration (Travis CI, AppVeyor)
 - Code coverage (Codecov, Coveralls)
 
 ### **Miscellaneous**
-- Writing project wikis, guides, tutorials
-- Static website generation with Jekyll
 - Completing tasks under tight deadlines
 - Self-teaching and on-the-job learning
 - Presentations and public speaking
@@ -72,11 +71,10 @@ thumbnail:  info-circle
 #### *Mar 2018 - Present*
 - Frustration-free, cross-platform project frameworks
 - Current main project: EzSDL
-  - Aims to accelerate the process of C/C++ SDL2 game programming
-  - Robust Makefile targets with built-in shell scripts
-  - Source and submodule management scripts
+  - Accelerates the process of C/C++ SDL2 game programming
+  - Robust Makefile with built-in dependency-checking shell scripts
   - Continuous integration testing with Travis CI
-  - Auto-documentation with Doxygen and m.css
+  - Auto documentation with Doxygen and m.css
 
 ### **<a target="_blank" href="http://github.com/kirklange/accompaniment-pairer">Accompaniment Pairer</a>** (C++)
 #### *Aug 2017*
@@ -113,3 +111,17 @@ thumbnail:  info-circle
 #### *Eugene, OR*
 - Engaged visitors of all ages in museum exhibits and activities
 - Supervised experiments and activities in chemsitry and astronomy for two dozen campers
+
+<br>
+# <i class="fa fa-language"></i> Languages <span style="float:right;"><a href="#" style="color:white;"><i class="fas fa-arrow-circle-up"></i></a></span>
+***
+### **English**
+- Native language
+
+### **French**
+- Professional proficiency
+- AP French: 5/5
+- IB French B HL: 5/7
+
+### **Chinese**
+- Limited proficiency
