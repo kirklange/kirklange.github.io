@@ -15,7 +15,7 @@ post_limit: 3
 
 # Social usernames/URLs
 disqus_account:
-twitter_username: kirklange_com
+twitter_username: #kirklange_com
 github_username: kirklange
 reddit_username: kirk_lange
 linkedin_link: http://www.linkedin.com/in/kirk-lange/
