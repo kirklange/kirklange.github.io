@@ -1,8 +1,8 @@
 ---
 published:  true
 layout:     post
-title:      Carte Noire in Action
-date:       2014-06-10 12:31:19
+title:      Carte Noire Demo
+date:       1900-01-01 00:00:0
 author:     Jacob Tomilson
 summary:    See what the different elements look like.
 categories: jekyll
@@ -11,7 +11,6 @@ redditurl:  7deu8p
 twitterurl: 961084879432597504
 tags:
  - demo
- - action
  - carte
  - noire
 ---
