@@ -26,7 +26,7 @@ google_plus_link:
 xing_link:
 
 # Footer
-footer_left: "<i class=\"fa fa-code-branch\"></i> from <a target=\"_blank\" href=\"https://github.com/jacobtomlinson/carte-noire\">Carte Noire</a>"
+footer_left: "<i class=\"fa fa-code-branch\"></i> of <a target=\"_blank\" href=\"https://github.com/jacobtomlinson/carte-noire\">Carte Noire</a>"
 footer_right: "<i class=\"fa fa-code\"></i> on <a target=\"_blank\" href=\"https://github.com/kirklange/kirklange.github.io\">GitHub</a>"
 
 # Build settings
