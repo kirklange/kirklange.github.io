@@ -24,7 +24,7 @@ thumbnail:  info-circle
 # <i class="fa fa-graduation-cap"></i> Education <span style="float:right;"><a href="#" style="color:white;"><i class="fas fa-arrow-circle-up"></i></a></span>
 ***
 ### **B.A. in Computer Science** (Pursuing)
-#### *Aug 2016 - May 2019*
+#### *Aug 2016 - May 2019* <small>(Junior Year Graduation)</small>
 #### *Whitman College*
 #### *Walla Walla, WA*
 - Current GPA
