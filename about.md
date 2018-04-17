@@ -67,16 +67,17 @@ thumbnail:  info-circle
 <br>
 # <i class="fa fa-file-code"></i> Projects <span style="float:right;"><a href="#" style="color:white;"><i class="fas fa-arrow-circle-up"></i></a></span>
 ***
-### **<a target="_blank" href="http://github.com/ezaf">EzAF</a>** (C, C++)
+### **<a target="_blank" href="https://github.com/ezaf">EzAF</a>** (C, C++)
 #### *Mar 2018 - Present*
 - Frustration-free, cross-platform project frameworks
+- Simplifies the process of including git submodules
 - Current main project: EzSDL
   - Accelerates the process of C/C++ SDL2 game programming
   - Robust Makefile with built-in dependency-checking shell scripts
   - Continuous integration testing with Travis CI
-  - Auto documentation with Doxygen and m.css
+  - Auto documentation with Doxygen and <a target="_blank" href="http://mcss.mosra.cz">m.css</a>
 
-### **<a target="_blank" href="http://github.com/kirklange/accompaniment-pairer">Accompaniment Pairer</a>** (C++)
+### **<a target="_blank" href="https://github.com/kirklange/accompaniment-pairer">Accompaniment Pairer</a>** (C++)
 #### *Aug 2017*
 - Paired four dozen musicians with piano accompanists based on schedule compatibility
 - Eliminated need to spend hours manually sorting through student schedules
@@ -97,7 +98,7 @@ thumbnail:  info-circle
 #### *May 2017 - Jul 2017*
 #### *Whitman College*
 #### *Walla Walla, WA*
-- C++ software development of <a target="_blank" href="http://github.com/johnastratton/DelayDifferentialEqnSimulator">gene regulation network simulation</a>
+- C++ software development of <a target="_blank" href="https://github.com/johnastratton/DelayDifferentialEqnSimulator">gene regulation network simulation</a>
 - Optimized simulation runtime by 20%
 - Automated simulation per-model recompilation with CMake
 - Refactored codebase with emphasis on mondularity and configurability
