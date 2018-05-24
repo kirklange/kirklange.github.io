@@ -28,7 +28,7 @@ thumbnail:  file-alt
 #### *Whitman College*
 #### *Walla Walla, WA*
 - Current GPA
-  - Major: 3.93
+  - Major: 3.90
   - Cumulative: 3.91
 - Coursework
   - Data Structures (C++)
@@ -46,7 +46,7 @@ thumbnail:  file-alt
 
 <br>
 # <i class="fa fa-wrench"></i> Skills <span style="float:right;"><a href="#" style="color:white;"><i class="fas fa-arrow-circle-up"></i></a></span>
-***
+****
 ### **Programming and Scripting**
 - C, C++, Python, Java
 - SDL2 graphics library
@@ -67,7 +67,7 @@ thumbnail:  file-alt
 
 <br>
 # <i class="fa fa-file-code"></i> Projects <span style="float:right;"><a href="#" style="color:white;"><i class="fas fa-arrow-circle-up"></i></a></span>
-***
+****
 ### **<a target="_blank" href="https://github.com/ezaf">EzAF</a>** (C, C++)
 #### *Mar 2018 - Present*
 - Robust yet light-weight project frameworks and APIs
@@ -94,7 +94,7 @@ thumbnail:  file-alt
 
 <br>
 # <i class="fa fa-briefcase"></i> Work Experience <span style="float:right;"><a href="#" style="color:white;"><i class="fas fa-arrow-circle-up"></i></a></span>
-***
+****
 ### **Research Assistant**
 #### *May 2017 - Jul 2017*
 #### *Whitman College*
@@ -117,7 +117,7 @@ thumbnail:  file-alt
 
 <br>
 # <i class="fa fa-language"></i> Languages <span style="float:right;"><a href="#" style="color:white;"><i class="fas fa-arrow-circle-up"></i></a></span>
-***
+****
 ### **English**
 - Native language
 
