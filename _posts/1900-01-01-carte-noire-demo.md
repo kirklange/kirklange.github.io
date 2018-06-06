@@ -1,18 +1,18 @@
 ---
-published:  true
+published:  false
 layout:     post
 title:      Carte Noire Demo
-date:       1900-01-01 00:00:0
+date:       1900-01-01 00:00
 author:     Jacob Tomilson
 summary:    See what the different elements look like.
 categories: jekyll
-thumbnail:  cogs
+thumbnail:  fas fa-cogs
 redditurl:  7deu8p
 twitterurl: 961084879432597504
 tags:
- - demo
- - carte
- - noire
+- demo
+- carte
+- noire
 ---
 
 **Note** - This article is a derivative of ["See pixyll in action"][1], taken from the lovely jekyll theme [pixyll][4].

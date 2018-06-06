@@ -19,16 +19,16 @@ layout: default
       </div>
       {% elsif page.thumbnail %}
       <div class="thumb">
-        <i class="fa fa-{{ page.thumbnail }} fa-4x"></i>
+        <i class="{{ page.thumbnail }} fa-4x"></i>
       </div>
       {% endif %}
 
       <h1 class="header" itemprop="name">{{ page.title }}</h1>
 
       <div class="author">
-        {% if page.summary %}
+        <!--{% if page.summary %}
         &mdash;&nbsp;{{ page.summary }}&nbsp;&mdash;<br>
-        {% endif %}
+        {% endif %}-->
         <small><i>
           {% if page.author %}
           by
@@ -107,7 +107,7 @@ layout: default
 
       {% if page.twitterurl or site.disqus_account or page.redditurl %}
         <div class="content-panel feedback">
-        What do you all think?<br/>I'd <i class="fa fa-heart"></i> love to hear from you 
+        What do you all think? I'd <i class="fa fa-heart"></i> love to hear from you 
         {% if site.twitter_username and page.twitterurl %}
           {% if site.disqus_account and page.redditurl %}
             over on <a href="https://www.reddit.com/r/duplicates/{{ page.redditurl }}">reddit</a>, 
@@ -132,6 +132,9 @@ layout: default
             in the comments section below!
           {% endif %}
         {% endif %}
+        <br><br>
+        As part of my commitment to keeping this website tracker-free, there
+        are no embedded comment modules.
         </div>
       {% endif %}
 
