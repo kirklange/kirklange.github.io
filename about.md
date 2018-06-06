@@ -68,21 +68,11 @@ thumbnail:  file-alt
 <br>
 # <i class="fa fa-file-code"></i> Projects <span style="float:right;"><a href="#" style="color:white;"><i class="fas fa-arrow-circle-up"></i></a></span>
 ****
-### **<a target="_blank" href="http://ezaf.io">EzAF</a>** (C, C++, Shell)
-#### *Mar 2018 - Present*
-- Robust yet light-weight project frameworks and APIs
-- Simplifies the process of including git submodules
-- Current main project: EzSDL
-  - Object-oriended wrapper for SDL2
-  - IDE-like conveniences with Makefile and shell scripts
-  - Continuous integration testing with Travis CI
-  - Auto documentation with Doxygen and <a target="_blank" href="http://mcss.mosra.cz">m.css</a>
-
 ### **<a target="_blank" href="https://github.com/kirklange/accompaniment-pairer">Accompaniment Pairer</a>** (C++)
 #### *Aug 2017*
 - Paired four dozen musicians with piano accompanists based on schedule compatibility
 - Eliminated need to spend hours manually sorting through student schedules
-- Implemented tree traversal algorithm to find the most optimal set of pairings
+- Implemented tree traversal algorithm to find optimal set of pairings
 
 ### **<a target="_blank" href="https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1284860-1-5-2-crazy-ravines-and-caves-mod">Crazy Ravines Minecraft Mod</a>** (Java)
 #### *Aug 2012*
