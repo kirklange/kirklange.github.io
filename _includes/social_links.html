@@ -1,11 +1,11 @@
 <p class="links">
+  {% if site.gitlab_username %}<a href="https://gitlab.com/{{ site.gitlab_username }}" target="_new"><i class="fab fa-gitlab"></i></a>
+  &nbsp;
+  {% endif %}
   {% if site.github_username %}<a href="https://github.com/{{ site.github_username }}" target="_new"><i class="fab fa-github-alt"></i></a>
   &nbsp;
   {% endif %}
   {% if site.stackoverflow_link %}<a href="{{ site.stackoverflow_link }}" target="_new"><i class="fab fa-stack-overflow"></i></a>
-  &nbsp;
-  {% endif %}
-  {% if site.linkedin_link %}<a href="{{ site.linkedin_link }}" target="_new"><i class="fab fa-linkedin-in"></i></a>
   &nbsp;
   {% endif %}
   {% if site.reddit_username %}<a href="https://www.reddit.com/u/{{ site.reddit_username }}" target="_new"><i class="fab fa-reddit-alien"></i></a>
@@ -24,6 +24,9 @@
   &nbsp;
   {% endif %}
   {% if site.xing_link %}<a href="{{ site.xing_link }}" target="_new"><i class="fab fa-xing"></i></a>
+  &nbsp;
+  {% endif %}
+  {% if site.linkedin_link %}<a href="{{ site.linkedin_link }}" target="_new"><i class="fab fa-linkedin-in"></i></a>
   &nbsp;
   {% endif %}
   <a href="{{ site.baseurl }}/feed.xml" target="_new"><i class="fa fa-rss"></i></a>

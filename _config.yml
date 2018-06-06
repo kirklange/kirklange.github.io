@@ -3,31 +3,32 @@ title: "Kirk Lange"
 email: example@example.com
 description: "Personal Blog and Portfolio"
 baseurl: ""
-url: "https://kirklange.github.io"
+url: "http://kirklange.com"
 title_description: "Programmer? Pianist? Same difference, they both work at 
-the keyboard.<br><br>Are you an employer I'm trying to impress? See my 
-complete resume <a href=\"about\">here</a>."
+the keyboard.<br><br>Are you an employer I'm trying to impress? Click this <a href=\"about\" class=\"inline\" target=\"_self\"><i class=\"fas fa-file-alt\"></i></a> icon to see my resume!"
 title_image: "https://www.gravatar.com/avatar/f0272e9987be9113b93e9e4b7153fa1d?s=500&d=mm"
 google_analytics:
-github_repository: https://github.com/kirklange/kirklange.github.io
+github_repository: #https://github.com/kirklange/kirklange.github.io
+gitlab_repository: https://gitlab.com/kirklange/kirklange.gitlab.io
 addthis_id:
 post_limit: 3
 
 # Social usernames/URLs
 disqus_account:
-twitter_username: #kirklange_com
-github_username: kirklange
-reddit_username: kirk_lange
-linkedin_link: http://www.linkedin.com/in/kirk-lange/
-facebook_link:
+gitlab_username: kirklange
+github_username: #kirklange
 stackoverflow_link:
-instagram_username:
+reddit_username: kirk_lange
 google_plus_link:
+facebook_link:
+twitter_username: #kirklange_com
+instagram_username:
+linkedin_link: http://www.linkedin.com/in/kirk-lange/
 xing_link:
 
 # Footer
-footer_left: "<i class=\"fa fa-code-branch\"></i> of <a target=\"_blank\" href=\"https://github.com/jacobtomlinson/carte-noire\">Carte Noire</a>"
-footer_right: "<i class=\"fa fa-code\"></i> on <a target=\"_blank\" href=\"https://github.com/kirklange/kirklange.github.io\">GitHub</a>"
+footer_left: "<i class=\"fa fa-code-branch\"></i> of <a target=\"_blank\" href=\"https://gitlab.com/jekyll-themes/carte-noire\">Carte Noire</a>"
+footer_right: "<i class=\"fa fa-code\"></i> on <a target=\"_blank\" href=\"https://gitlab.com/kirklange/kirklange.gitlab.io\">GitLab</a>"
 
 # Build settings
 markdown: kramdown

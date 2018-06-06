@@ -6,14 +6,16 @@
 
 /* Colours */
 $twitter:        #6dabda;
-$linkedin:       #2b77b1;
+$linkedin:       #578baf;
 $xing:           #006567;
 $google-plus:    #c95644;
 $facebook:       #365899;
 $github:         #f6c2a4;
+$gitlab:         #ed8450;
 $stack-overflow: #c98b3b;
 $instagram:      #cd486b;
 $reddit:         #cee3f8;
+$resume:         #9fbfff;
 $rss:            #eea33a;
 
 $darker:         #171717;
@@ -154,9 +156,23 @@ ul {
 
 	.pages {
 
-		.fa {
+		.fa, .fab, .fas {
 			margin-right: 10px;
 		}
+	}
+}
+
+.inline {
+    color: $white;
+
+	.fa, .fab, .fas {
+		-webkit-transition: 0.3s;
+		-moz-transition: 0.3s;
+		transition: 0.3s;
+	}
+
+    .fa-file-alt:hover {
+		color: $resume;
 	}
 }
 
@@ -174,10 +190,14 @@ ul {
 		}
 	}
 
-	.fa {
+	.fa, .fab, .fas {
 		-webkit-transition: 0.3s;
 		-moz-transition: 0.3s;
 		transition: 0.3s;
+	}
+
+    .fa-file-alt:hover {
+		color: $resume;
 	}
 
 	.fa-twitter:hover {
@@ -202,6 +222,10 @@ ul {
 
 	.fa-github-alt:hover {
 		color: $github;
+	}
+
+    .fa-gitlab:hover {
+		color: $gitlab;
 	}
 
 	.fa-stack-overflow:hover {

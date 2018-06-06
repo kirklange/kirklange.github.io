@@ -33,7 +33,7 @@ thumbnail:  file-alt
 - Coursework
   - Data Structures (C++)
   - Systems Programming (C, Assembly)
-  - Artificial Intelligence (<a target="_blank" href="https://github.com/kirklange/royal-game-of-ur">final project</a>)
+  - Artificial Intelligence (<a target="_blank" href="https://gitlab.com/kirklange/royal-game-of-ur">final project</a>)
   - Natural Language Processing (Python)
   - Software Engineering (<a target="_blank" href="https://github.com/whitman-books-online/whitman-books-online">class project</a>)
   - Discrete Math and Functional Programming (SML)
@@ -68,7 +68,7 @@ thumbnail:  file-alt
 <br>
 # <i class="fa fa-file-code"></i> Projects <span style="float:right;"><a href="#" style="color:white;"><i class="fas fa-arrow-circle-up"></i></a></span>
 ****
-### **<a target="_blank" href="https://github.com/ezaf">EzAF</a>** (C, C++)
+### **<a target="_blank" href="http://ezaf.io">EzAF</a>** (C, C++, Shell)
 #### *Mar 2018 - Present*
 - Robust yet light-weight project frameworks and APIs
 - Simplifies the process of including git submodules

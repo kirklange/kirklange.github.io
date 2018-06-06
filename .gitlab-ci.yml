@@ -1,0 +1,31 @@
+image: ruby:2.3
+
+variables:
+  JEKYLL_ENV: production
+
+before_script:
+  - echo "source \"https://rubygems.org\"" >> Gemfile
+  - echo "ruby RUBY_VERSION" >> Gemfile
+  - echo "gem \"jekyll\", \"3.4.0\"" >> Gemfile
+  - echo "gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]" >> Gemfile
+  - bundle install
+
+test:
+  stage: test
+  script:
+  - bundle exec jekyll build -d test
+  artifacts:
+    paths:
+    - test
+  except:
+  - master
+
+pages:
+  stage: deploy
+  script:
+  - bundle exec jekyll build -d public
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
