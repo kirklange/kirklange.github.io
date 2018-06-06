@@ -4,10 +4,7 @@ variables:
   JEKYLL_ENV: production
 
 before_script:
-  - echo "source \"https://rubygems.org\"" >> Gemfile
-  - echo "ruby RUBY_VERSION" >> Gemfile
-  - echo "gem \"jekyll\", \"3.4.0\"" >> Gemfile
-  - echo "gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]" >> Gemfile
+  - mv /builds/kirklange/kirklange.gitlab.io/.Gemfile /builds/kirklange/kirklange.gitlab.io/Gemfile
   - bundle install
 
 test:
