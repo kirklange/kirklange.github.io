@@ -2,13 +2,13 @@
 published:  true
 layout:     post
 title:      Mirroring Repos with GitHub
-date:       2018-06-05 21:00
+date:       2018-06-06 13:00
 author:     Kirk Lange
 summary:    Leaving GitHub but still want to keep your repos up-to-date?
 categories: how-to
-thumbnail:  fab fa-gitlab
-redditurl:  
-twitterurl:
+thumbnail:  far fa-clone
+redditurl:  8p4ign
+twitterurl: 1004476754029760512
 tags:
  - gitlab
  - github
@@ -97,12 +97,12 @@ offer.
 
 After importing a couple projects to GitLab and tinkering around a bit, I was
 pleasantly surprised. A couple pet peeves I had with GitHub like pull request
-permissions and of course ability to host private repositories were solved with
-GitLab. Additionally, having CI built right in to GitLab is pretty nice since
-I use it extensively to run unit and cross-platform compatability tests. That
-is not to say that GitLab doesn't have its own issues. I definitely may find
-more in the future as it's only my 3rd day using GitLab, but I figure where's
-the harm in trying it out for a couple weeks?
+permissions and of course the ability to host private repositories were solved
+with GitLab. Additionally, having CI built right in to GitLab is pretty nice
+since I use it extensively to run unit and cross-platform compatability tests.
+That is not to say that GitLab doesn't have its own issues. I definitely may
+find more in the future as it's only my 3rd day using GitLab, but I figure
+where's the harm in trying it out for a couple weeks?
 
 Thanks to the fact that I'm pushing all my repo changes to both GitHub and
 GitLab, I can easily switch my main platform at will. If GitLab has another
