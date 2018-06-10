@@ -13,8 +13,8 @@ thumbnail:  file-alt
 <div style="padding-bottom:10px">Table of Contents</div>
 <a href="#-education-" style="color:white;"><i class="fa fa-graduation-cap"></i></a> &nbsp;
 <a href="#-skills-" style="color:white;"><i class="fa fa-wrench"></i></a> &nbsp;
-<a href="#-projects-" style="color:white;"><i class="fa fa-file-code"></i></a> &nbsp;
 <a href="#-work-experience-" style="color:white;"><i class="fa fa-briefcase"></i></a> &nbsp;
+<a href="#-projects-" style="color:white;"><i class="fa fa-file-code"></i></a> &nbsp;
 <a href="#-languages-" style="color:white;"><i class="fa fa-language"></i></a>
 </center>
 </h1>
@@ -33,7 +33,7 @@ thumbnail:  file-alt
 - Coursework
   - Data Structures (C++)
   - Systems Programming (C, Assembly)
-  - Artificial Intelligence (<a target="_blank" href="https://gitlab.com/kirklange/royal-game-of-ur">final project</a>)
+  - Artificial Intelligence (<a target="_blank" href="https://github.com/kirklange/royal-game-of-ur">final project</a>)
   - Natural Language Processing (Python)
   - Software Engineering (<a target="_blank" href="https://github.com/whitman-books-online/whitman-books-online">class project</a>)
   - Discrete Math and Functional Programming (SML)
@@ -66,23 +66,6 @@ thumbnail:  file-alt
 - Presentations and public speaking
 
 <br>
-# <i class="fa fa-file-code"></i> Projects <span style="float:right;"><a href="#" style="color:white;"><i class="fas fa-arrow-circle-up"></i></a></span>
-****
-### **<a target="_blank" href="https://github.com/kirklange/accompaniment-pairer">Accompaniment Pairer</a>** (C++)
-#### *Aug 2017*
-- Paired four dozen musicians with piano accompanists based on schedule compatibility
-- Eliminated need to spend hours manually sorting through student schedules
-- Implemented tree traversal algorithm to find optimal set of pairings
-
-### **<a target="_blank" href="https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1284860-1-5-2-crazy-ravines-and-caves-mod">Crazy Ravines Minecraft Mod</a>** (Java)
-#### *Aug 2012*
-- 10,000 downloads over its one-year lifespan
-- Featured on dozens of YouTube channels and international forums
-- Maintained consistent audience by addressing community feedback
-  - 7500 downloads in the first six months
-  - 2500 downloads in the following six months
-
-<br>
 # <i class="fa fa-briefcase"></i> Work Experience <span style="float:right;"><a href="#" style="color:white;"><i class="fas fa-arrow-circle-up"></i></a></span>
 ****
 ### **Research Assistant**
@@ -98,12 +81,30 @@ thumbnail:  file-alt
 - Monthly, formal presentations to the CS department on progress and results
 - Awarded 3rd place student poster presentation at CCSC-NW 2017 Conference
 
-### **Museum Guide / Camp Councelor**
-#### *Jul 2015*
-#### *The Science Factory*
-#### *Eugene, OR*
-- Engaged visitors of all ages in museum exhibits and activities
-- Supervised experiments and activities in chemsitry and astronomy for two dozen campers
+<br>
+# <i class="fa fa-file-code"></i> Projects <span style="float:right;"><a href="#" style="color:white;"><i class="fas fa-arrow-circle-up"></i></a></span>
+****
+### **<a target="_blank" href="https://github.com/ezaf/ezmake">EzMake</a>** (Make, Shell)
+#### *May 2018 - Present*
+- C/C++ project building and testing development tool
+- Automated unit testing with input customization
+- API code compilable to static or dynamic library
+- Standardized and scalable project structure
+- Simplified inclusion of external packages
+
+### **<a target="_blank" href="https://github.com/kirklange/accompaniment-pairer">Accompaniment Pairer</a>** (C++)
+#### *Aug 2017*
+- Paired four dozen musicians with piano accompanists based on schedule compatibility
+- Eliminated need to spend hours manually sorting through student schedules
+- Implemented tree traversal algorithm to find optimal set of pairings
+
+### **<a target="_blank" href="https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1284860-1-5-2-crazy-ravines-and-caves-mod">Crazy Ravines Minecraft Mod</a>** (Java)
+#### *Aug 2012*
+- 10,000 downloads over its one-year lifespan
+- Featured on dozens of YouTube channels and international forums
+- Maintained consistent audience by addressing community feedback
+  - 7500 downloads in the first six months
+  - 2500 downloads in the following six months
 
 <br>
 # <i class="fa fa-language"></i> Languages <span style="float:right;"><a href="#" style="color:white;"><i class="fas fa-arrow-circle-up"></i></a></span>
