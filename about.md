@@ -94,9 +94,17 @@ thumbnail:  file-alt
 
 ### **<a target="_blank" href="https://github.com/kirklange/accompaniment-pairer">Accompaniment Pairer</a>** (C++)
 #### *Aug 2017*
-- Paired four dozen musicians with piano accompanists based on schedule compatibility
+- Paired four dozen musicians with accompanists via schedule compatibility
 - Eliminated need to spend hours manually sorting through student schedules
 - Implemented tree traversal algorithm to find optimal set of pairings
+
+### **High School Coding Projects** (Java)
+#### *2014 - 2016*
+- Implemented ball position predictor with kinematics equations for ping pong AI
+- Created isometric Pac-Man-like game with narrative themes from 1984
+- Simulated macroeconomic and international trade models
+- All of the above replaced class poster presentations
+- Completed within same deadline as typical class project
 
 ### **<a target="_blank" href="https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1284860-1-5-2-crazy-ravines-and-caves-mod">Crazy Ravines Minecraft Mod</a>** (Java)
 #### *Aug 2012*
