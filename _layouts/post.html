@@ -116,7 +116,7 @@ layout: default
           {% if page.twitterurl or page.redditurl %}
           <p class="links">
             {% if page.redditurl %}
-            <a href="https://www.reddit.com/r/duplicates/{{ page.redditurl }}" target="_new"><i class="fab fa-reddit-alien"></i></a>
+            <a href="https://www.reddit.com/r/{{ page.redditurl }}" target="_new"><i class="fab fa-reddit-alien"></i></a>
   &nbsp;
             {% endif %}
             {% if site.twitter_username and page.twitterurl %}

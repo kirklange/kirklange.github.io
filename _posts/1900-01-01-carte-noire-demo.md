@@ -7,8 +7,6 @@ author:     Jacob Tomilson
 summary:    See what the different elements look like.
 categories: jekyll
 thumbnail:  fas fa-cogs
-redditurl:  7deu8p
-twitterurl: 961084879432597504
 tags:
 - demo
 - carte
