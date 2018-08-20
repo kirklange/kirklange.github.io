@@ -50,10 +50,8 @@ thumbnail:  file-alt
 ### **Programming and Scripting**
 - C++, C, Python, Bash, Lua, Java
 - SDL2, Emscripten, OpenGL
-- Make, CMake/CTest, GProf, GDB
+- Make, CMake/CTest, GDB, GProf
 - Windows, Linux, Mac, Android, WebAssembly
-
-### **Software Development**
 - Auto documentation (Doxygen and Sphinx)
 - Continuous integration (Travis CI, GitLab CI)
 - Version Control (Git, GitHub, GitLab)
@@ -61,7 +59,7 @@ thumbnail:  file-alt
 <br>
 # <i class="fa fa-briefcase"></i> Work Experience <span style="float:right;"><a href="#" style="color:white;"><i class="fas fa-arrow-circle-up"></i></a></span>
 ****
-### **Research Assistant**
+### **Research Assistant (Department of Computer Science)**
 #### *May 2017 - Jul 2017*
 #### *Whitman College*
 #### *Walla Walla, WA*
@@ -70,7 +68,7 @@ thumbnail:  file-alt
 - Automated simulation per-model compilation with CMake
 - Refactored I/O and analysis modules to be user-extensible
 - Monthly formal presentations to CS department on progress and results
-- Awarded 3rd place student presentation at CCSC-NW 2017 Conference
+- Awarded 3rd place student presentation at the Consortium for Computing Sciences in Colleges northwestern 2017 regional conference
 
 ### **Museum Guide & Camp Councelor**
 #### *Jul 2015*
@@ -82,18 +80,18 @@ thumbnail:  file-alt
 <br>
 # <i class="fa fa-file-code"></i> Projects <span style="float:right;"><a href="#" style="color:white;"><i class="fas fa-arrow-circle-up"></i></a></span>
 ****
-### **<a target="_blank" href="http://ezsdl.ezaf.io">EzSDL Game Engine</a>** (C++)
+### **<a target="_blank" href="http://ezgl.ezaf.io">EzGL Game Engine</a>** (C++)
 #### *Feb 2018 - Present*
-- Factory- and component-based SDL2 game engine, implemented from scratch
-- Plugin-based architecture with shared object loading and json configuration
-- Dynamically polymorphic base MVC components
-- Statically polymorphic (CRTP) derived components
+- Factory- and component-based game engine implemented from scratch
+- Plugin support through json-configurable dynamic loading and initialization
+- Graphics API-agnostic core; OpenGL or SDL renderers loaded dynamically
+- Statically polymorphic MVC components using CRTP
 
 ### **<a target="_blank" href="http://ezmake.ezaf.io">EzMake</a>** (Make, Bash)
 #### *May 2018 - Present*
 - Automation scripts for building, documenting, testing, and Emscripten porting
 - Static or dynamic linking, allowing each module to be its own shared library
-- Unit testing framework with input customization
+- Unit testing framework with program input customization
 
 ### **<a target="_blank" href="http://rgu.kirklange.com">Expectiminimax Game AI</a>** (C)
 #### *May 2018*
@@ -113,15 +111,13 @@ thumbnail:  file-alt
 - Ping pong physics game with ball position predicting AI using kinematics
 - Isometric Pac-Man-like game with narrative themes from 1984
 - Simulated macroeconomic and international trade models
-- Completed within same deadline as typical poster project
 
 ### **<a target="_blank" href="https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1284860-1-5-2-crazy-ravines-and-caves-mod">Crazy Ravines Minecraft Mod</a>** (Java)
 #### *Aug 2012*
-- 10,000 downloads over its one-year lifespan
-- Featured on dozens of YouTube channels and international forums
-- 7500 downloads in first six months; 2500 downloads in following six months
-- Retained audience by addressing community feedback such as adding support
-for in-game customization
+- 10,000 total downloads: 7500 in first six months, 2500 in following six months
+• Retained audience by addressing community feedback such as adding "Crazy
+Caves" and support for in-game customization
+• Featured on dozens of YouTube channels and international forums
 
 <br>
 # <i class="fa fa-language"></i> Languages <span style="float:right;"><a href="#" style="color:white;"><i class="fas fa-arrow-circle-up"></i></a></span>
