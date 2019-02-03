@@ -7,7 +7,7 @@ author:     Kirk Lange
 summary:    How I went from zero internships to a full-time job offer from Google.
 categories: essays
 thumbnail:  fas fa-briefcase
-redditurl:
+redditurl:  cscareerquestions/comments/amndsf/big_n_discussion_february_03_2019/efnguiw/
 twitterurl:
 tags:
  - google
