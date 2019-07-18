@@ -24,13 +24,17 @@ thumbnail:  file-alt
 # <i class="fa fa-graduation-cap"></i> Education <span style="float:right;"><a href="#" style="color:white;"><i class="fas fa-arrow-circle-up"></i></a></span>
 ***
 ### **B.A. in Computer Science**
-#### *Aug 2016 - May 2019* <small>(Expected, Accelerated Graduation)</small>
+#### *Aug 2016 - May 2019* <small>(Accelerated Graduation)</small>
 #### *Whitman College*
 #### *Walla Walla, WA*
-- Current GPA
-  - Major: 3.90
-  - Cumulative: 3.91
+- Quick Stats
+  - *summa cum laude*
+  - Major: 3.91/4.0
+  - Cumulative: 3.93/4.0
+  - Phi Beta Kappa honor society
 - Coursework
+  - Advanced Project (<a target="_blank" href="https://github.com/WhitmanCSCapstone/great-explorations/tree/sat-project">SAT-based matching algorithm</a>)
+  - Capstone Project (<a target="_blank" href="https://github.com/WhitmanCSCapstone/great-explorations/tree/master">website and matching algorithm</a>)
   - Software Engineering (<a target="_blank" href="https://github.com/whitman-books-online/whitman-books-online">class project</a>)
   - Artificial Intelligence (<a target="_blank" href="http://rgu.kirklange.com">final project</a>)
   - Natural Language Processing (Python)
