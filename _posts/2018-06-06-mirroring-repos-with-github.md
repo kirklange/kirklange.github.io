@@ -8,7 +8,6 @@ summary:    Leaving GitHub but still want to keep your repos up-to-date?
 categories: how-to
 thumbnail:  far fa-clone
 redditurl:  github/comments/8p4ign
-twitterurl: 1004476754029760512
 tags:
  - gitlab
  - github
