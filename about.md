@@ -110,7 +110,7 @@ thumbnail:  file-alt
 - Eliminated need to spend hours manually determining compatible schedules
 - Optimal pairings defined as students having greatest schedule overlap
 
-### **High School Coding Projects** (Java, LWGJL)
+### **High School Coding Projects** (Java, LWJGL)
 #### *2014 - 2016*
 - Ping pong physics game with ball position predicting AI using kinematics
 - Isometric Pac-Man-like game with narrative themes from 1984
