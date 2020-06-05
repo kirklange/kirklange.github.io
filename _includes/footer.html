@@ -13,13 +13,16 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.7/highlight.min.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
 <script type="text/javascript">
+   function menuClick() {
+     $(".menu-button").hide();
+     $("#my-menu").trigger("open.mm");
+   }
    $(document).ready(function() {
       $("#my-menu").mmenu().on( "closed.mm", function() {
             $(".menu-button").show();
          });
       $(".menu-button").click(function() {
-        $(".menu-button").hide();
-        $("#my-menu").trigger("open.mm");
+        menuClick();
       });
    });
 </script>

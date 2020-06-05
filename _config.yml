@@ -5,9 +5,9 @@ description: "Personal Blog and Portfolio"
 baseurl: ""
 url: "http://kirklange.com"
 title_description: "Programmer? Pianist? Same difference, they both work at 
-the keyboard.<br><hr>Are you an employer I am trying to impress?<br>Navigate to
-the About Me page by clicking on the &nbsp;<i class=\"fas fa-bars\"></i>&nbsp;
-in the top-left!"
+the keyboard.<br><hr>Are you an employer I am trying to impress? Click here:\
+&nbsp;<div style=\"display: inline\" onclick=\"menuClick()\">
+<i class=\"fa fa-file-alt\"></i></div>"
 title_image: "https://www.gravatar.com/avatar/f0272e9987be9113b93e9e4b7153fa1d?s=500&d=mm"
 google_analytics:
 github_repository: #https://github.com/kirklange/kirklange.github.io
