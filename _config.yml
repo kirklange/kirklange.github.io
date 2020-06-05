@@ -43,7 +43,7 @@ permalink: pretty
 exclude: [vendor]
 
 # Plugins
-plugins:
+plugins_dir:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-seo-tag
