@@ -4,7 +4,7 @@ email: example@example.com
 description: "Personal Blog and Portfolio"
 baseurl: ""
 url: "http://kirklange.com"
-title_description: "Programmer? Pianist? Same difference, they both work at 
+title_description: "Programmer? Pianist? Same difference. They both work at 
 the keyboard.<br><hr>Are you an employer I am trying to impress? Click here:\
 &nbsp;<div style=\"display: inline\" onclick=\"menuClick()\">
 <i class=\"fa fa-file-alt\"></i></div>"
