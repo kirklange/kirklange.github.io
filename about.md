@@ -119,9 +119,9 @@ thumbnail:  file-alt
 ### **<a target="_blank" href="https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1284860-1-5-2-crazy-ravines-and-caves-mod">Crazy Ravines Minecraft Mod</a>** (Java)
 #### *Aug 2012*
 - 10,000 total downloads: 7500 in first six months, 2500 in following six months
-• Retained audience by addressing community feedback such as adding "Crazy
+- Retained audience by addressing community feedback such as adding "Crazy
 Caves" and support for in-game customization
-• Featured on dozens of YouTube channels and international forums
+- Featured on dozens of YouTube channels and international forums
 
 <br>
 # <i class="fa fa-language"></i> Languages <span style="float:right;"><a href="#" style="color:white;"><i class="fas fa-arrow-circle-up"></i></a></span>
