@@ -8,17 +8,14 @@ title_description: "Programmer? Pianist? Same difference. They both work at
 the keyboard.<br><hr>Are you an employer I am trying to impress?<br>\
 Click here <div style=\"display: inline\" onclick=\"menuClick()\">\
 <i class=\"fa fa-file-alt\"></i></div> to read my About Me page."
-title_image: "https://www.gravatar.com/avatar/f0272e9987be9113b93e9e4b7153fa1d?s=500&d=mm"
+title_image: "https://avatars.githubusercontent.com/u/10791893"
 google_analytics:
-github_repository: #https://github.com/kirklange/kirklange.github.io
-gitlab_repository: https://gitlab.com/kirklange/kirklange.gitlab.io
+github_repository: https://github.com/kirklange/kirklange.github.io
 addthis_id:
 post_limit: 3
 
 # Social usernames/URLs
 disqus_account:
-github_username: kirklange
-gitlab_username: kirklange
 stackoverflow_link:
 reddit_username: kirk_lange
 google_plus_link:
@@ -29,8 +26,8 @@ linkedin_link: http://www.linkedin.com/in/kirk-lange/
 xing_link:
 
 # Footer
-footer_left: "<i class=\"fa fa-code-branch\"></i> of <a target=\"_blank\" href=\"https://gitlab.com/jekyll-themes/carte-noire\">Carte Noire</a>"
-footer_right: "<i class=\"fa fa-code\"></i> on <a target=\"_blank\" href=\"https://gitlab.com/kirklange/kirklange.gitlab.io\">GitLab</a>"
+footer_left: "<i class=\"fa fa-code-branch\"></i> of <a target=\"_blank\" href=\"https://github.com/jacobtomlinson/carte-noire\">Carte Noire</a>"
+footer_right: "<i class=\"fa fa-code\"></i> on <a target=\"_blank\" href=\"https://github.com/kirklange/kirklange.github.io\">GitHub</a>"
 
 # Build settings
 markdown: kramdown
