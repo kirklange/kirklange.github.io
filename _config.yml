@@ -16,6 +16,7 @@ post_limit: 3
 
 # Social usernames/URLs
 disqus_account:
+github_username: kirklange
 stackoverflow_link:
 reddit_username: kirk_lange
 google_plus_link:
